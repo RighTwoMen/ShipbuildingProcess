@@ -409,3 +409,41 @@
 - Tank cleaning system : Cargo tank 내부의 세정을 위한 장치
 - Oil discharge monitoring system : 해상 오염방지를 위한 감지장치
 - Fire fighting system : 선박 화재발생시 소화 목적
+
+#### 선장설계-선장철의장
+- 각종 Machinery (crane, winch, vent 등)의 배치 및 장치 작동 설비
+- 기관실 및 선실구역을 제외한 전 구역의 Door, 통로, 계단 및 환기 설비
+- 선박의 해난 사고 시 사용할 구명정을 비롯한 일체의 구명장비
+- 서박의 해상 또는 항구 입출항 및 정박 시, 각 운항 통과 시 운항이 불가한 비상사태 시의 계선장치
+- 항구 정박 시 승하선용 계단, 선박 상호 왕래용 통로, 헬리콥터 이착륙 설비 및 각종 로프 관련 선구류
+- 운항 시, 정박 시 점등할 각 Signal light 및 항해 통신장비 설치를 위한 Radar mast, fore mast
+
+### 선실설계, 기장설계, 타축설계, 전장설계
+#### 선실설계
+- 목의장설계 : 거주구 배치, 목의장장치, 교통장치, 채광장치, 갑판피복장치, 주방세탁장치, 위생설비장치의 배치 및 장치 작동설비의 구매 및 설계
+- 설비설계 : 선실 온냉수 배관, 위생배관장치, 냉난방 및 통풍장치, 냉동장치 등의 선실 구역의 배치 및 관련 설비 자재 구매 및 설계
+- 구조설계 : 선박 거주구 구조도, ENGINE CASING, FUNNEL 구조도, 거주구 공작도, 일품도, 선실 진동 검도 및 탑재중량 산출업무
+
+#### 기장설계-주보기 & System part
+- 각종 Machinery (M/E, G/E, Boiler, Compressor 등의 각종 주보기)의 POR 작성/발행 (Maker 도면접수, 대 선주 승인 및 배관/철의장팀 Comment 반영, Maker도면승인)
+- 기본설계에서 초기 작성된 기관실 배관 계통도 Up-date (Repeat 호선의 경우 계통도 직접 작성, 각종 주보기 도면 계통도 반영, Valve list 작성, Valve POR 작성 등)
+- On board test procedure / Sea trial procedure / L.O. Flushing procedure 작성 및 대 선주 승인업무
+- 주보기 및 System 관련 개선 및 표준화 건조 중 발생되는 대 선주/선급 문제 처리 및 Follow-up, 시운전 승선 결과확인
+
+#### 기장설계-배관 및 철의장 Part
+- 각종 Machinery (M/E, G/E, Boiler, Compressor 등의 각종 주보기)의 배치 및 배관설계 (상세설계 및 생산설계)
+- 기관실 전 구역의 배관 관련 설비에 따른 물량 현장제작 의뢰 및 구매 의뢰서 작성 (Package unit, pipe group unit, poly coating pipe 등)
+- 기관실 전 구역의 철의장 관련 설비에 따른 물량 현장제작 의뢰 및 구매 의뢰서 작성 (Vent duct, ladder, grating, bolt/nut)
+- 현장공정 관련 작업 Stage check, MP/DP 작성 검토
+- 상세설계 도면 작성 대 선주/선급 승인업무 및 Package unit / 외주설계 도면 검도 승인
+
+#### 타축설계
+- 모든 선박의 Propulsion shafting system 및 manoeuvring system에 대하여 Ship performance, operation, function, maintenance, installation을 고려한 최적의 설계를 수행
+- 시운전 승선하여 Torsional vibration 및 Steering gear 성능 계측
+- 시운전 계측결과를 기본설계에 Feed-back하여 실적선 자료로 활용
+
+#### 전장설계
+- 선박 내 각종 Machinery용 동력 공급을 위한 발전기, 배전반 등의 구매 및 관련 배선도 system 설계
+- 선박 내 전 구역의 조명 설비의 구매 및 배치도/배선도 설계
+- 선박 내 각종 Machinery (M/E, G/E, Boiler 등)에 대한 Control 및 monitoring을 위한 각종 Sensor 및 주 경보 장치에 대한 System 설계 및 관련 장비 구매
+- 각 배치도 및 배선도 상의 각종 전기 장비 및 관련 전선들에 대한 상세 생산 설계도(장치/취부, 제작도) 작성
