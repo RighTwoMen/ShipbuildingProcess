@@ -120,11 +120,116 @@
 5. 계약호선
 
 #### 선장철의장 부분
-- 선장 철의장에서의 주요 수행 업무 : 선박의 조종, 계선, 건화물 취급, crane, 통행, 구명 설비 및 환기 장치
-- 선장 철의장 설계시 주요 업무 
-  1. 각 system의 상세 사양 결정 및 제조원가 산출
-  2. 계약호선은 표시(\*)장비에 대한 POR, POS 발행과 장비 사양의 기술적인 검토
+- 선장철의장
+  - 선장 철의장에서의 주요 수행 업무 : 선박의 조종, 계선, 건화물 취급, crane, 통행, 구명 설비 및 환기 장치
+  - 선장 철의장 설계시 주요 업무 
+    1. 각 system의 상세 사양 결정 및 제조원가 산출
+    2. 계약호선은 표시(\*)장비에 대한 POR, POS 발행과 장비 사양의 기술적인 검토
+- 선실의장
+  - 선실의장에서의 주요 수행 업무 : 선원들이 거주하는 공간, 쾌적한 생활을 위해 개인 방과 식당, 휴게실, 체육실, 세탁실, 조리실, 부식창고 및 부대 시설로 이루어짐
+  - 선실의장 설계시 주요 업무
+    - 거주구역(선실)의 구조, 전장 및 소화설비를 제외한 선실의 통행, 공기조화, 가구, 바닥/벽/천장마감재, 조리시설, 욕실, 세탁실, 오락시설, 배관 등과 관련 업무
+      1. 선주 요구사항을 반영한 선실 layout을 작성
+      2. 각 system의 상세 사양 결정 및 제조원가를 산출
+      3. 계약호선에 대해서는 표시(\*)장비에 대한 POR, POS 발행과 장비 사양에 대한 기술적인 검토
 
+### 배관설계
+#### 견적(프로젝트) 업무
+- 배관설계의 주요 업무
+  - 각 System별 pipe 및 valve의 종류
+  - 각 구역별 적용되는 fire extinguishing system의 종류
+  - 각종 pump류의 사양 및 용량
+  - heating coil 계산
+  - 각종 gauge의 종류 및 수량
+
+#### 승인도면 업무
+- Hull piping diagram except living quarter (DWG. NO. 2T-7400-003)
+  1. 모든 선종의 선박에 적용되는 도면으로 engine room 과 accommodation을 제외한 부분의 배관관련 diagram
+  2. 배치도처럼 정확한 scale대로 그려지지는 않으나 선박 건조의 배관 관련 기본이 되는 도면
+  3. pipe 및 valve의 size, thickness, 종류 및 각종 보기의 용량 등을 표시, 각 system 별로 구분
+  4. 추후 선장설계의 arrangement (배치도) 작성의 기준
+- Piping diagram of cargo oil and water ballast system (DWG. NO. 2T-4112-001)
+  1. Tanker 선종에 적용되는 도면으로 cargo oil system과 ballast system
+  2. 필요에 따라 pipe size 등을 선정, 여러 가지 배관 관련 계산
+  
+### 기장설계
+#### 기장 부분
+- 기본설계 기장 부분
+  - 선박 설계 및 건조에 있어 선박의 추진 및 동력 발생장치가 설치되는 기관실 기본 계획
+- 기관실의 주요 기능
+  - 추진력 발생, 선박 소요 동력 제조, 동력 전달
+  - 선박 내 발생하는 bilge, sludge 및 오수의 처리
+  - 각종 장비의 냉각 시스템, 연료유 및 윤활유의 이송/공급기관 시동 및 각종 제어를 위한 압축 공기 공급
+  - 연료유 가열을 위한 증기 공급
+- 기관실의 특징 및 전략
+  - 연소용 공기 공급 및 폭발 방지를 위한 통풍시스템 등이 복잡하게 설치
+  - 선형(speed) 및 선가 측면에서 가능한 작은 공간으로 설계하는 것이 바람직하므로 한정된 공간에 많은 기계류 설치
+- 기관실의 최적설계
+  - 기계류 배치의 효율화, 기계류의 적정한 용량 결정
+  - 각종 TANK의 적정 Volume 결정, 유지 보수의 편리
+- 기관실은 전체 선가의 1/5~1/3에 해당하므로 중요한 위치
+- 선박의 성능에 직접적인 영향이 있으므로, 최적 설계의 필요성 요구
+  
+#### 견적 업무
+- 선형(Hull form)에 따른 Main engine 배치 여부 검토
+  - Hull form에 따른 기관실 구획의 형상/구조와 요구 성능을 만족시키는 주기 및 보기와의 간섭 및 배치 가능 여부 확인
+  - 주로 M/E, D/G 및 Shaft system의 설치 및 Maintenance 기능 여부가 결정 인자로 적용
+- 기관실 내 설치 보기 용량 결정
+  - 선박 요구 성능과 결정된 주기의 추진력에 따라 각종 보기의 용량이 결정
+  - 보기 용량 결정
+    - Engine room dimensioning data (S.F.O.C. 및 주기 관련 보기 Data / M/E maker 제공)
+    - Steam consumption table : Aux. boiler 및 Economizer 용량 결정
+    - Heat balance table : cooling system (Pump / Cooler 용량 결정)
+    - Ventilation fan capacity : Ventilation fan capacity 결정 기타 IMO/선급 Rule 기준 각종 보기 및 Tank 용량 계산서
+- 제조원가 계산 및 소요 공수 산출
+  - 기관실 내 설치 장비, 배관 및 철의장 등에 대한 제조원가 계산 및 소요 공수 산출
+
+#### 기관실 배치도(Machinery arrangement in E/R)
+- 각종 Tank, 장비 및 구역 배치를 도시한 도면
+- 고려사항 : Building specification, 선급 및 관련 법규, 기본도면을 기본적으로 반영
+  - 기계의 충분한 성능 발휘
+  - System별, 유체별 Group화
+    - 짧은 배관이 되도록 하고 물량 및 공수가 적게 들도록 함
+  - Unit 의장, Block 의장이 용이하도록 고려
+  - 선행의장이 가능하도록
+  - 통로, 탈출설비 등이 규정에 맞추고
+  - 편리하고 안전한 통행이 보장
+  - Main engine의 탑재가 용이하도록 Deck opening 및 기기 배치를 고려
+  
+#### 기관실 계통도(Piping system diagram in E/R)
+- 주보기의 정상적인 작동과 선원의 일상생활에 필요한 일체의 System을 구성
+- 기게들간의 상호 유기적인 작동이 가능하도록 배관계통을 나타내 주는 도면
+
+### 전장설계
+#### 기본설계 전장부문 업무 개요
+- 사양결정, 견적 및 주요자재, 구매관련업무
+  - Power & Distribution System
+    - Operation Mode 별로 필요한 소요전력 분석 
+    - 발전기의 용량 및 대수 결정
+    - 발전기에서 생산된 전원
+    - 분전반 및 배전반
+    - 각 기기에 배급(Feeding)
+    - 구성요소 : 발전기, 배전반, 기동기, 분전반, 변압기, 전선 등
+  - Control & Automation System
+    - 기기로부터 센서를 통하여 신호를 검출 후
+    - 적당한 신호로 변환, 전송
+    - Display Unit 이용, 시각적으로 나타냄
+    - 기기를 조작관련 System
+    - 구성요소
+      - Main Engine Control System
+      - Engine Room Alarm Monitoring System
+      - Aux. Machinery Control System
+  - Navigation & Communication System
+    - 선박이 항해하는데 관련된 장비 및 일들
+    - 선박의 종류나 Maker의 사양 등에 따라 각기 설치기준이 다름
+    - 장비자체 또한 고도의 전자기술로 제작
+    - 전자기술의 발달에 따라 빠르게 변화하는 시스템
+    - 구성요소
+      - Navigation System
+        - Auto Pilot, Magnetic Compass, Gyro Compass, Echo Sounder, Speed Log, Radar, ECDIS, DGPS, Weather 
+  - Lighting System
+
+#### Power & Distribution System
 
   
   
